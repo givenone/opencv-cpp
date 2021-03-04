@@ -170,5 +170,4 @@ static void writeDelaunay(Subdiv2D& subdiv, vector<Point2f>& points, const strin
 }
 ```
 
-
 - opencv의 `subdiv2d` class 사용
